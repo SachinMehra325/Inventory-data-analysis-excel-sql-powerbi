@@ -66,9 +66,6 @@ Built an interactive dashboard in Power BI including:
 
 <img width="1163" height="651" alt="Hospital_Data_Overview_Dashboard_Picture" src="https://github.com/user-attachments/assets/5d0568c6-e9d2-4859-b70f-8383406d076f" />
 
-Inventory Management Dashboard In Power BI.pbix
-
-
 ---
 
 ## 💡 Key Insights
