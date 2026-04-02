@@ -1,0 +1,1001 @@
+Product_ID,Product,Stock,Reorder_Level,Supplier,Price
+P1000,Mouse,90,28,ABC Ltd,30895
+P1001,Mouse,141,41,XYZ Ltd,57504
+P1002,Mobile,99,36,Global Traders,75038
+P1003,Monitor,2,24,TechCorp,38582
+P1004,Keyboard,108,38,XYZ Ltd,10016
+P1005,Printer,158,48,Global Traders,65852
+P1006,Mobile,82,21,TechCorp,40695
+P1007,Laptop,71,16,Global Traders,38819
+P1008,Tablet,174,37,SupplyHub,13666
+P1009,Keyboard,199,29,Global Traders,30774
+P1010,Headphones,21,31,XYZ Ltd,70928
+P1011,Mobile,175,28,ABC Ltd,64619
+P1012,Printer,105,48,ABC Ltd,44844
+P1013,Mouse,150,35,SupplyHub,45643
+P1014,Tablet,160,50,TechCorp,60348
+P1015,Printer,13,14,ABC Ltd,54972
+P1016,Printer,96,42,Global Traders,59523
+P1017,Keyboard,146,46,SupplyHub,2066
+P1018,Keyboard,3,29,SupplyHub,62725
+P1019,Keyboard,58,18,SupplyHub,28696
+P1020,Printer,71,23,ABC Ltd,33297
+P1021,Headphones,193,25,ABC Ltd,9344
+P1022,Mobile,55,42,XYZ Ltd,63390
+P1023,Keyboard,98,33,SupplyHub,32189
+P1024,Headphones,87,18,SupplyHub,48746
+P1025,Tablet,43,44,XYZ Ltd,54442
+P1026,Headphones,28,27,Global Traders,75752
+P1027,Laptop,106,46,Global Traders,28813
+P1028,Tablet,162,15,ABC Ltd,56815
+P1029,Mobile,140,47,TechCorp,48184
+P1030,Mobile,22,39,ABC Ltd,67449
+P1031,Monitor,96,14,ABC Ltd,33961
+P1032,Headphones,12,29,SupplyHub,48113
+P1033,Laptop,117,13,Global Traders,45607
+P1034,Mouse,187,50,XYZ Ltd,74554
+P1035,Mouse,176,10,TechCorp,9875
+P1036,Laptop,78,29,XYZ Ltd,76728
+P1037,Keyboard,155,49,XYZ Ltd,29527
+P1038,Mobile,198,22,SupplyHub,12072
+P1039,Monitor,188,27,Global Traders,50428
+P1040,Headphones,81,19,ABC Ltd,11635
+P1041,Mouse,64,36,TechCorp,47502
+P1042,Monitor,27,29,SupplyHub,32738
+P1043,Laptop,110,34,Global Traders,29837
+P1044,Keyboard,191,43,Global Traders,58189
+P1045,Tablet,54,19,XYZ Ltd,10381
+P1046,Monitor,3,38,Global Traders,30238
+P1047,Keyboard,0,37,ABC Ltd,63102
+P1048,Laptop,147,24,SupplyHub,53564
+P1049,Laptop,131,24,SupplyHub,70827
+P1050,Tablet,143,13,ABC Ltd,71633
+P1051,Tablet,70,29,ABC Ltd,60857
+P1052,Printer,146,29,TechCorp,14007
+P1053,Mouse,181,34,SupplyHub,46397
+P1054,Printer,191,11,ABC Ltd,4631
+P1055,Mobile,12,35,XYZ Ltd,48636
+P1056,Mobile,177,33,TechCorp,17966
+P1057,Laptop,104,15,SupplyHub,37998
+P1058,Mouse,196,37,ABC Ltd,64199
+P1059,Mouse,99,25,XYZ Ltd,42857
+P1060,Laptop,178,43,ABC Ltd,9771
+P1061,Tablet,17,28,ABC Ltd,25815
+P1062,Mouse,30,27,ABC Ltd,19224
+P1063,Mouse,152,28,XYZ Ltd,76189
+P1064,Mobile,191,36,XYZ Ltd,43869
+P1065,Laptop,59,45,ABC Ltd,23921
+P1066,Printer,59,39,Global Traders,27099
+P1067,Tablet,21,15,ABC Ltd,54130
+P1068,Printer,30,44,XYZ Ltd,38266
+P1069,Tablet,181,12,XYZ Ltd,32873
+P1070,Monitor,100,18,SupplyHub,13295
+P1071,Keyboard,86,22,SupplyHub,45413
+P1072,Monitor,180,29,TechCorp,19393
+P1073,Monitor,192,26,SupplyHub,37968
+P1074,Keyboard,69,15,Global Traders,20869
+P1075,Headphones,182,47,XYZ Ltd,69955
+P1076,Monitor,17,38,XYZ Ltd,69328
+P1077,Headphones,43,48,XYZ Ltd,68190
+P1078,Keyboard,135,33,SupplyHub,78679
+P1079,Mouse,132,41,TechCorp,63309
+P1080,Tablet,47,32,SupplyHub,77228
+P1081,Laptop,168,43,SupplyHub,27791
+P1082,Mouse,150,21,XYZ Ltd,72006
+P1083,Mobile,161,13,TechCorp,77723
+P1084,Laptop,3,42,SupplyHub,31253
+P1085,Monitor,44,28,XYZ Ltd,26450
+P1086,Mouse,191,22,XYZ Ltd,11775
+P1087,Printer,72,34,XYZ Ltd,18972
+P1088,Mouse,106,13,TechCorp,47761
+P1089,Keyboard,102,11,TechCorp,45885
+P1090,Tablet,68,46,SupplyHub,54971
+P1091,Laptop,163,34,TechCorp,54252
+P1092,Tablet,52,50,Global Traders,68009
+P1093,Headphones,66,21,ABC Ltd,38349
+P1094,Keyboard,84,21,XYZ Ltd,2370
+P1095,Monitor,166,44,TechCorp,50609
+P1096,Mobile,163,16,Global Traders,62764
+P1097,Tablet,184,25,XYZ Ltd,77668
+P1098,Mouse,88,48,TechCorp,12752
+P1099,Mouse,37,46,XYZ Ltd,30927
+P1100,Tablet,7,18,Global Traders,34777
+P1101,Laptop,140,43,XYZ Ltd,41741
+P1102,Printer,111,50,SupplyHub,29170
+P1103,Printer,196,45,SupplyHub,29893
+P1104,Keyboard,139,26,Global Traders,14608
+P1105,Tablet,102,29,TechCorp,59996
+P1106,Mobile,154,34,XYZ Ltd,66500
+P1107,Mobile,24,34,ABC Ltd,38169
+P1108,Tablet,42,22,XYZ Ltd,12112
+P1109,Printer,38,25,Global Traders,41901
+P1110,Monitor,150,35,SupplyHub,49748
+P1111,Mobile,54,36,ABC Ltd,39003
+P1112,Printer,53,16,ABC Ltd,52666
+P1113,Headphones,4,27,ABC Ltd,20448
+P1114,Printer,24,20,SupplyHub,79569
+P1115,Laptop,148,39,Global Traders,56190
+P1116,Monitor,166,41,ABC Ltd,36912
+P1117,Printer,133,10,ABC Ltd,55371
+P1118,Monitor,31,36,TechCorp,46407
+P1119,Mobile,32,33,XYZ Ltd,73708
+P1120,Mobile,102,16,ABC Ltd,45496
+P1121,Mobile,99,34,ABC Ltd,65889
+P1122,Headphones,63,12,ABC Ltd,55580
+P1123,Headphones,122,10,TechCorp,21394
+P1124,Tablet,17,37,XYZ Ltd,74718
+P1125,Laptop,197,13,TechCorp,38020
+P1126,Keyboard,91,42,Global Traders,33759
+P1127,Monitor,110,48,XYZ Ltd,71533
+P1128,Laptop,153,42,XYZ Ltd,78255
+P1129,Mobile,37,48,ABC Ltd,70557
+P1130,Laptop,34,25,TechCorp,57031
+P1131,Mobile,42,32,Global Traders,42696
+P1132,Tablet,120,43,Global Traders,42497
+P1133,Laptop,40,10,Global Traders,46699
+P1134,Tablet,191,41,SupplyHub,62870
+P1135,Keyboard,16,11,XYZ Ltd,23507
+P1136,Printer,110,44,SupplyHub,57600
+P1137,Headphones,147,23,Global Traders,50607
+P1138,Monitor,116,30,XYZ Ltd,49738
+P1139,Mobile,10,37,SupplyHub,34279
+P1140,Mouse,121,32,ABC Ltd,17421
+P1141,Mobile,141,40,SupplyHub,47867
+P1142,Keyboard,179,37,ABC Ltd,21964
+P1143,Headphones,120,14,ABC Ltd,70560
+P1144,Tablet,134,18,ABC Ltd,19096
+P1145,Mouse,200,32,ABC Ltd,72138
+P1146,Keyboard,79,20,XYZ Ltd,968
+P1147,Mobile,24,13,SupplyHub,48637
+P1148,Tablet,109,28,XYZ Ltd,37914
+P1149,Tablet,186,40,TechCorp,21895
+P1150,Keyboard,97,42,SupplyHub,51621
+P1151,Keyboard,118,17,SupplyHub,70653
+P1152,Mobile,59,23,SupplyHub,65145
+P1153,Keyboard,158,13,SupplyHub,57180
+P1154,Keyboard,162,27,TechCorp,7757
+P1155,Laptop,38,50,SupplyHub,67311
+P1156,Mobile,91,22,ABC Ltd,57354
+P1157,Monitor,77,29,XYZ Ltd,18023
+P1158,Mouse,37,17,Global Traders,51079
+P1159,Monitor,117,37,XYZ Ltd,28237
+P1160,Mobile,14,21,TechCorp,60976
+P1161,Keyboard,52,45,ABC Ltd,16139
+P1162,Headphones,182,12,TechCorp,38605
+P1163,Tablet,190,41,SupplyHub,71767
+P1164,Printer,189,34,Global Traders,70149
+P1165,Mobile,192,10,XYZ Ltd,3907
+P1166,Headphones,47,50,TechCorp,61373
+P1167,Printer,24,21,Global Traders,53356
+P1168,Mobile,167,45,TechCorp,17911
+P1169,Monitor,78,24,ABC Ltd,15851
+P1170,Printer,20,34,ABC Ltd,21004
+P1171,Mouse,169,44,Global Traders,67856
+P1172,Printer,148,10,XYZ Ltd,4624
+P1173,Monitor,102,22,TechCorp,3877
+P1174,Headphones,17,28,Global Traders,53572
+P1175,Mouse,8,48,SupplyHub,72539
+P1176,Mouse,164,22,TechCorp,36120
+P1177,Tablet,135,21,SupplyHub,35014
+P1178,Mobile,60,37,XYZ Ltd,40062
+P1179,Laptop,91,12,TechCorp,50471
+P1180,Tablet,185,20,ABC Ltd,29133
+P1181,Keyboard,171,18,XYZ Ltd,41531
+P1182,Printer,97,13,ABC Ltd,35125
+P1183,Keyboard,67,11,SupplyHub,57601
+P1184,Monitor,80,24,SupplyHub,10258
+P1185,Mobile,26,47,TechCorp,32768
+P1186,Keyboard,156,42,XYZ Ltd,18691
+P1187,Mobile,44,18,XYZ Ltd,42263
+P1188,Mouse,178,50,XYZ Ltd,43778
+P1189,Mobile,165,46,TechCorp,54767
+P1190,Headphones,102,15,SupplyHub,18635
+P1191,Mobile,75,30,SupplyHub,59223
+P1192,Laptop,174,45,SupplyHub,22705
+P1193,Keyboard,6,38,SupplyHub,40094
+P1194,Monitor,120,50,ABC Ltd,64048
+P1195,Mobile,175,50,XYZ Ltd,22924
+P1196,Mouse,37,19,Global Traders,57495
+P1197,Tablet,167,16,ABC Ltd,10633
+P1198,Monitor,121,14,TechCorp,14585
+P1199,Mouse,73,24,Global Traders,66876
+P1200,Laptop,80,25,Global Traders,18723
+P1201,Mobile,46,12,ABC Ltd,47961
+P1202,Tablet,18,50,SupplyHub,27913
+P1203,Printer,197,28,ABC Ltd,35185
+P1204,Tablet,104,47,Global Traders,78469
+P1205,Mouse,6,49,XYZ Ltd,4973
+P1206,Mobile,86,45,SupplyHub,30282
+P1207,Tablet,93,50,ABC Ltd,29935
+P1208,Mobile,94,46,SupplyHub,18179
+P1209,Monitor,168,41,TechCorp,12461
+P1210,Tablet,12,31,Global Traders,30061
+P1211,Tablet,184,42,SupplyHub,42952
+P1212,Monitor,103,45,XYZ Ltd,64446
+P1213,Printer,31,40,XYZ Ltd,68396
+P1214,Mouse,147,24,ABC Ltd,53298
+P1215,Mobile,92,46,TechCorp,45138
+P1216,Monitor,50,22,TechCorp,79505
+P1217,Headphones,200,27,XYZ Ltd,42792
+P1218,Printer,20,19,Global Traders,21637
+P1219,Laptop,159,15,ABC Ltd,53267
+P1220,Mouse,53,26,XYZ Ltd,6302
+P1221,Printer,172,49,ABC Ltd,66855
+P1222,Printer,113,31,TechCorp,52090
+P1223,Headphones,177,32,XYZ Ltd,52813
+P1224,Keyboard,152,24,XYZ Ltd,22557
+P1225,Keyboard,195,35,SupplyHub,34619
+P1226,Mouse,122,23,TechCorp,11431
+P1227,Laptop,14,12,Global Traders,70828
+P1228,Printer,1,25,Global Traders,61218
+P1229,Keyboard,114,38,TechCorp,22650
+P1230,Laptop,196,33,Global Traders,35121
+P1231,Printer,190,31,SupplyHub,4246
+P1232,Headphones,46,24,SupplyHub,79801
+P1233,Tablet,140,10,ABC Ltd,7520
+P1234,Mobile,148,40,Global Traders,29587
+P1235,Mobile,91,22,ABC Ltd,23932
+P1236,Mouse,151,19,ABC Ltd,11329
+P1237,Monitor,136,36,ABC Ltd,49227
+P1238,Monitor,190,21,Global Traders,8800
+P1239,Monitor,67,25,TechCorp,11085
+P1240,Printer,130,35,XYZ Ltd,46059
+P1241,Tablet,126,29,SupplyHub,61923
+P1242,Laptop,146,32,SupplyHub,20431
+P1243,Keyboard,52,49,XYZ Ltd,1293
+P1244,Headphones,166,31,TechCorp,23702
+P1245,Mouse,55,40,XYZ Ltd,14907
+P1246,Mouse,25,27,ABC Ltd,30489
+P1247,Printer,84,19,ABC Ltd,69023
+P1248,Laptop,182,29,ABC Ltd,23708
+P1249,Headphones,91,30,XYZ Ltd,65599
+P1250,Keyboard,126,46,XYZ Ltd,52260
+P1251,Headphones,85,17,TechCorp,15832
+P1252,Laptop,194,11,ABC Ltd,4004
+P1253,Printer,8,31,XYZ Ltd,12726
+P1254,Keyboard,5,19,TechCorp,34759
+P1255,Keyboard,43,25,XYZ Ltd,16014
+P1256,Monitor,77,30,Global Traders,24834
+P1257,Mouse,129,48,ABC Ltd,64419
+P1258,Tablet,183,22,ABC Ltd,79496
+P1259,Tablet,192,15,ABC Ltd,72419
+P1260,Tablet,43,17,SupplyHub,68798
+P1261,Laptop,112,29,ABC Ltd,32925
+P1262,Printer,146,18,SupplyHub,12433
+P1263,Headphones,56,37,XYZ Ltd,17312
+P1264,Headphones,96,34,ABC Ltd,17819
+P1265,Monitor,104,26,XYZ Ltd,16985
+P1266,Printer,136,12,Global Traders,43666
+P1267,Tablet,84,46,ABC Ltd,74505
+P1268,Monitor,7,22,Global Traders,76413
+P1269,Headphones,139,14,TechCorp,27394
+P1270,Keyboard,101,18,XYZ Ltd,19043
+P1271,Mouse,111,45,SupplyHub,71795
+P1272,Headphones,71,39,TechCorp,32282
+P1273,Mobile,8,15,TechCorp,38352
+P1274,Mobile,183,31,Global Traders,25885
+P1275,Laptop,181,48,SupplyHub,21077
+P1276,Keyboard,142,27,Global Traders,67740
+P1277,Laptop,167,33,ABC Ltd,49732
+P1278,Tablet,42,13,SupplyHub,75667
+P1279,Tablet,86,19,ABC Ltd,11895
+P1280,Headphones,28,35,TechCorp,55988
+P1281,Monitor,142,47,XYZ Ltd,42273
+P1282,Mobile,89,45,SupplyHub,1428
+P1283,Keyboard,198,48,TechCorp,49314
+P1284,Mobile,91,12,SupplyHub,47388
+P1285,Mobile,105,36,ABC Ltd,60550
+P1286,Printer,66,23,Global Traders,61866
+P1287,Headphones,3,41,XYZ Ltd,23326
+P1288,Printer,13,14,TechCorp,50898
+P1289,Keyboard,189,25,ABC Ltd,70756
+P1290,Printer,102,19,XYZ Ltd,79302
+P1291,Headphones,31,42,XYZ Ltd,40122
+P1292,Monitor,178,48,SupplyHub,1119
+P1293,Keyboard,179,26,XYZ Ltd,6525
+P1294,Mobile,8,45,XYZ Ltd,19376
+P1295,Laptop,135,29,TechCorp,70089
+P1296,Mouse,141,22,Global Traders,51161
+P1297,Monitor,123,22,XYZ Ltd,41553
+P1298,Printer,122,37,Global Traders,67007
+P1299,Monitor,199,44,TechCorp,57582
+P1300,Mobile,182,35,SupplyHub,54889
+P1301,Mouse,133,27,SupplyHub,72071
+P1302,Mobile,168,49,ABC Ltd,66704
+P1303,Laptop,113,37,Global Traders,79875
+P1304,Laptop,31,32,SupplyHub,36409
+P1305,Keyboard,62,50,TechCorp,28376
+P1306,Tablet,196,10,SupplyHub,75695
+P1307,Monitor,68,23,ABC Ltd,39718
+P1308,Headphones,84,16,Global Traders,49473
+P1309,Headphones,73,29,SupplyHub,63257
+P1310,Printer,5,24,ABC Ltd,70622
+P1311,Mobile,113,17,Global Traders,23834
+P1312,Tablet,105,33,ABC Ltd,50801
+P1313,Mobile,166,41,TechCorp,57760
+P1314,Printer,194,16,TechCorp,64060
+P1315,Tablet,68,37,SupplyHub,21515
+P1316,Tablet,158,46,SupplyHub,35659
+P1317,Mouse,142,36,XYZ Ltd,5708
+P1318,Headphones,118,28,ABC Ltd,11873
+P1319,Tablet,65,10,TechCorp,77238
+P1320,Printer,164,47,SupplyHub,23168
+P1321,Keyboard,11,29,SupplyHub,52680
+P1322,Laptop,72,44,TechCorp,42452
+P1323,Tablet,98,39,ABC Ltd,53028
+P1324,Headphones,99,14,ABC Ltd,20386
+P1325,Printer,52,40,SupplyHub,66747
+P1326,Mobile,171,10,ABC Ltd,52215
+P1327,Tablet,116,40,SupplyHub,60680
+P1328,Laptop,70,19,XYZ Ltd,4042
+P1329,Keyboard,129,23,TechCorp,68061
+P1330,Printer,81,10,ABC Ltd,46820
+P1331,Mouse,129,28,XYZ Ltd,18228
+P1332,Printer,62,11,ABC Ltd,34115
+P1333,Headphones,151,50,ABC Ltd,6575
+P1334,Laptop,61,34,XYZ Ltd,29523
+P1335,Headphones,114,43,Global Traders,72895
+P1336,Mobile,96,35,ABC Ltd,58489
+P1337,Keyboard,94,27,SupplyHub,78429
+P1338,Printer,74,38,TechCorp,68619
+P1339,Mobile,41,19,TechCorp,24072
+P1340,Laptop,152,50,XYZ Ltd,34077
+P1341,Keyboard,131,19,XYZ Ltd,30909
+P1342,Tablet,112,45,Global Traders,78060
+P1343,Headphones,44,49,SupplyHub,69785
+P1344,Monitor,188,38,SupplyHub,34085
+P1345,Mobile,21,17,ABC Ltd,77950
+P1346,Mobile,72,36,ABC Ltd,70082
+P1347,Mobile,119,48,TechCorp,3312
+P1348,Monitor,87,18,XYZ Ltd,42658
+P1349,Laptop,121,43,Global Traders,19018
+P1350,Mobile,153,41,XYZ Ltd,75688
+P1351,Tablet,46,27,TechCorp,72890
+P1352,Tablet,143,41,SupplyHub,35967
+P1353,Keyboard,141,32,Global Traders,23203
+P1354,Mouse,117,41,ABC Ltd,12902
+P1355,Printer,155,26,XYZ Ltd,51506
+P1356,Keyboard,96,32,ABC Ltd,60893
+P1357,Monitor,127,10,ABC Ltd,13261
+P1358,Mouse,32,49,TechCorp,47688
+P1359,Monitor,194,22,ABC Ltd,24203
+P1360,Mouse,65,49,ABC Ltd,30009
+P1361,Mouse,47,48,SupplyHub,22165
+P1362,Headphones,100,39,SupplyHub,5702
+P1363,Keyboard,151,41,TechCorp,47187
+P1364,Tablet,75,37,XYZ Ltd,30727
+P1365,Monitor,166,47,XYZ Ltd,78797
+P1366,Laptop,114,35,SupplyHub,58378
+P1367,Mobile,169,31,TechCorp,48317
+P1368,Headphones,89,47,ABC Ltd,17760
+P1369,Mobile,102,28,TechCorp,6772
+P1370,Mobile,135,16,Global Traders,26574
+P1371,Headphones,76,30,SupplyHub,45741
+P1372,Tablet,181,50,Global Traders,981
+P1373,Headphones,56,48,Global Traders,43022
+P1374,Headphones,148,16,TechCorp,37037
+P1375,Tablet,184,19,ABC Ltd,49209
+P1376,Tablet,27,30,XYZ Ltd,35096
+P1377,Monitor,109,45,ABC Ltd,48607
+P1378,Tablet,125,46,ABC Ltd,23035
+P1379,Mouse,169,16,XYZ Ltd,3925
+P1380,Mouse,156,29,XYZ Ltd,12736
+P1381,Printer,24,33,TechCorp,21280
+P1382,Printer,88,14,Global Traders,18909
+P1383,Mouse,126,32,Global Traders,12902
+P1384,Mouse,107,25,SupplyHub,14214
+P1385,Mobile,38,35,XYZ Ltd,20393
+P1386,Keyboard,173,32,TechCorp,31248
+P1387,Tablet,39,17,Global Traders,42773
+P1388,Laptop,135,27,TechCorp,966
+P1389,Mouse,185,21,SupplyHub,34148
+P1390,Mouse,192,48,XYZ Ltd,22084
+P1391,Headphones,161,37,TechCorp,75251
+P1392,Tablet,85,47,SupplyHub,46710
+P1393,Mobile,174,33,ABC Ltd,5055
+P1394,Printer,178,38,XYZ Ltd,31187
+P1395,Tablet,90,29,TechCorp,42292
+P1396,Printer,139,19,TechCorp,22209
+P1397,Monitor,148,36,ABC Ltd,15569
+P1398,Mouse,69,16,SupplyHub,32386
+P1399,Keyboard,107,28,TechCorp,53496
+P1400,Printer,91,37,Global Traders,71882
+P1401,Laptop,3,35,SupplyHub,39493
+P1402,Monitor,130,25,Global Traders,55558
+P1403,Laptop,112,17,Global Traders,38774
+P1404,Printer,74,13,Global Traders,67960
+P1405,Headphones,139,33,Global Traders,19153
+P1406,Printer,129,46,Global Traders,4147
+P1407,Mouse,41,42,TechCorp,28121
+P1408,Keyboard,54,16,Global Traders,58459
+P1409,Printer,98,37,Global Traders,63862
+P1410,Headphones,120,14,XYZ Ltd,6620
+P1411,Mouse,26,23,Global Traders,53731
+P1412,Laptop,14,33,XYZ Ltd,41917
+P1413,Tablet,37,20,Global Traders,15706
+P1414,Headphones,138,44,Global Traders,52286
+P1415,Laptop,104,10,ABC Ltd,19444
+P1416,Printer,23,29,TechCorp,9397
+P1417,Laptop,99,38,ABC Ltd,19617
+P1418,Headphones,181,22,SupplyHub,20972
+P1419,Headphones,110,43,Global Traders,10079
+P1420,Mobile,159,20,SupplyHub,8964
+P1421,Mouse,20,14,SupplyHub,77900
+P1422,Monitor,155,21,XYZ Ltd,25879
+P1423,Tablet,200,13,TechCorp,50793
+P1424,Laptop,76,46,SupplyHub,16870
+P1425,Monitor,151,10,XYZ Ltd,2775
+P1426,Mobile,21,18,XYZ Ltd,65025
+P1427,Laptop,166,43,SupplyHub,57263
+P1428,Printer,71,45,XYZ Ltd,64727
+P1429,Mobile,50,37,ABC Ltd,4207
+P1430,Monitor,110,44,SupplyHub,34268
+P1431,Keyboard,9,17,Global Traders,17527
+P1432,Mouse,107,50,Global Traders,6693
+P1433,Printer,9,10,Global Traders,35805
+P1434,Mobile,37,45,TechCorp,24496
+P1435,Mouse,82,42,SupplyHub,77960
+P1436,Mouse,117,48,ABC Ltd,58266
+P1437,Headphones,169,18,TechCorp,32334
+P1438,Mouse,67,37,TechCorp,27868
+P1439,Mouse,0,20,XYZ Ltd,30332
+P1440,Mouse,94,40,ABC Ltd,30644
+P1441,Monitor,21,47,ABC Ltd,32291
+P1442,Printer,148,34,XYZ Ltd,9209
+P1443,Mobile,113,45,Global Traders,71915
+P1444,Printer,125,20,TechCorp,16302
+P1445,Mouse,156,24,Global Traders,46891
+P1446,Tablet,52,27,TechCorp,71507
+P1447,Mobile,188,32,XYZ Ltd,37159
+P1448,Monitor,95,36,Global Traders,16199
+P1449,Headphones,10,42,Global Traders,40488
+P1450,Headphones,23,30,XYZ Ltd,48319
+P1451,Mobile,163,15,SupplyHub,10262
+P1452,Mouse,187,38,SupplyHub,71241
+P1453,Mouse,125,38,TechCorp,73729
+P1454,Printer,149,18,TechCorp,62688
+P1455,Monitor,117,36,XYZ Ltd,49719
+P1456,Tablet,161,40,TechCorp,24794
+P1457,Mouse,39,26,SupplyHub,34501
+P1458,Monitor,193,17,XYZ Ltd,28104
+P1459,Printer,32,34,SupplyHub,65211
+P1460,Mouse,183,10,ABC Ltd,55555
+P1461,Tablet,4,20,XYZ Ltd,1921
+P1462,Monitor,45,29,ABC Ltd,61635
+P1463,Keyboard,177,35,Global Traders,53523
+P1464,Keyboard,11,46,ABC Ltd,67448
+P1465,Printer,105,49,ABC Ltd,60803
+P1466,Keyboard,43,40,Global Traders,20148
+P1467,Tablet,125,29,SupplyHub,17893
+P1468,Laptop,67,40,XYZ Ltd,51575
+P1469,Laptop,131,36,Global Traders,53193
+P1470,Mobile,162,48,TechCorp,43917
+P1471,Laptop,66,15,TechCorp,3373
+P1472,Laptop,63,10,ABC Ltd,38884
+P1473,Printer,67,44,XYZ Ltd,77957
+P1474,Keyboard,110,18,Global Traders,75498
+P1475,Mobile,174,27,Global Traders,50218
+P1476,Mobile,58,20,XYZ Ltd,51012
+P1477,Mouse,119,48,XYZ Ltd,18643
+P1478,Headphones,117,26,SupplyHub,35716
+P1479,Tablet,137,13,TechCorp,74962
+P1480,Mobile,40,28,SupplyHub,37070
+P1481,Mobile,179,22,XYZ Ltd,70039
+P1482,Mobile,77,12,ABC Ltd,4479
+P1483,Keyboard,119,24,XYZ Ltd,22216
+P1484,Printer,80,47,XYZ Ltd,56992
+P1485,Keyboard,78,40,XYZ Ltd,16272
+P1486,Monitor,106,47,TechCorp,26040
+P1487,Mobile,16,47,XYZ Ltd,41834
+P1488,Headphones,104,17,Global Traders,72489
+P1489,Laptop,65,11,XYZ Ltd,67061
+P1490,Laptop,177,44,TechCorp,71534
+P1491,Tablet,36,35,TechCorp,61203
+P1492,Mouse,156,44,XYZ Ltd,60611
+P1493,Mouse,15,26,SupplyHub,2803
+P1494,Keyboard,184,36,Global Traders,48366
+P1495,Keyboard,75,24,SupplyHub,78537
+P1496,Headphones,63,37,SupplyHub,73461
+P1497,Mobile,196,11,XYZ Ltd,6606
+P1498,Headphones,169,21,XYZ Ltd,71964
+P1499,Headphones,40,49,Global Traders,52587
+P1500,Headphones,198,34,Global Traders,47402
+P1501,Mobile,34,36,SupplyHub,54501
+P1502,Tablet,69,11,Global Traders,40510
+P1503,Tablet,102,38,SupplyHub,64054
+P1504,Monitor,190,36,ABC Ltd,68978
+P1505,Laptop,82,25,TechCorp,55592
+P1506,Mouse,45,32,XYZ Ltd,66489
+P1507,Laptop,67,48,TechCorp,50605
+P1508,Laptop,26,11,Global Traders,30168
+P1509,Printer,92,30,TechCorp,23853
+P1510,Mouse,144,49,ABC Ltd,41961
+P1511,Mobile,91,34,XYZ Ltd,14244
+P1512,Keyboard,52,24,SupplyHub,33508
+P1513,Mobile,54,14,XYZ Ltd,73431
+P1514,Mouse,52,29,Global Traders,51540
+P1515,Tablet,77,28,TechCorp,14149
+P1516,Keyboard,54,34,Global Traders,15342
+P1517,Mobile,133,26,ABC Ltd,44214
+P1518,Tablet,162,23,TechCorp,45025
+P1519,Laptop,105,30,ABC Ltd,46321
+P1520,Printer,194,23,XYZ Ltd,24504
+P1521,Tablet,53,39,Global Traders,21131
+P1522,Mobile,24,30,Global Traders,70443
+P1523,Headphones,104,47,SupplyHub,13770
+P1524,Mobile,99,12,XYZ Ltd,55308
+P1525,Mobile,47,14,SupplyHub,40708
+P1526,Mouse,36,10,SupplyHub,9903
+P1527,Laptop,123,34,Global Traders,10877
+P1528,Mouse,46,19,XYZ Ltd,36730
+P1529,Printer,158,48,XYZ Ltd,7154
+P1530,Monitor,190,35,SupplyHub,76185
+P1531,Mobile,72,20,XYZ Ltd,19856
+P1532,Laptop,135,22,SupplyHub,2810
+P1533,Mobile,112,42,XYZ Ltd,43336
+P1534,Monitor,20,43,SupplyHub,6154
+P1535,Mobile,69,40,Global Traders,59309
+P1536,Tablet,196,24,XYZ Ltd,16189
+P1537,Mouse,199,13,ABC Ltd,6633
+P1538,Headphones,104,36,SupplyHub,58977
+P1539,Tablet,114,47,SupplyHub,10288
+P1540,Headphones,97,27,XYZ Ltd,5968
+P1541,Monitor,10,12,Global Traders,65838
+P1542,Monitor,98,11,TechCorp,65745
+P1543,Mouse,170,32,XYZ Ltd,45618
+P1544,Mouse,34,29,TechCorp,24218
+P1545,Headphones,70,14,SupplyHub,35812
+P1546,Laptop,44,35,ABC Ltd,8162
+P1547,Laptop,119,40,Global Traders,1168
+P1548,Printer,93,27,TechCorp,9656
+P1549,Keyboard,39,19,TechCorp,29325
+P1550,Keyboard,35,32,ABC Ltd,20213
+P1551,Mobile,106,36,ABC Ltd,76756
+P1552,Tablet,26,16,TechCorp,27489
+P1553,Headphones,127,25,ABC Ltd,20218
+P1554,Monitor,47,17,Global Traders,42031
+P1555,Monitor,107,46,SupplyHub,75012
+P1556,Printer,49,45,ABC Ltd,50506
+P1557,Mobile,199,50,SupplyHub,9720
+P1558,Mouse,118,18,TechCorp,61912
+P1559,Mobile,98,28,Global Traders,52256
+P1560,Mouse,98,16,SupplyHub,56075
+P1561,Laptop,197,19,ABC Ltd,36420
+P1562,Mobile,186,29,SupplyHub,62053
+P1563,Headphones,159,35,XYZ Ltd,70654
+P1564,Tablet,13,10,ABC Ltd,40377
+P1565,Headphones,150,15,XYZ Ltd,5533
+P1566,Laptop,180,44,XYZ Ltd,77843
+P1567,Tablet,56,41,XYZ Ltd,64062
+P1568,Mouse,95,47,ABC Ltd,78049
+P1569,Keyboard,26,26,XYZ Ltd,49680
+P1570,Headphones,171,18,ABC Ltd,49849
+P1571,Headphones,151,24,TechCorp,38362
+P1572,Keyboard,16,35,XYZ Ltd,78134
+P1573,Tablet,158,48,SupplyHub,8732
+P1574,Tablet,33,47,Global Traders,50107
+P1575,Tablet,198,44,SupplyHub,32533
+P1576,Headphones,111,34,XYZ Ltd,37427
+P1577,Printer,29,16,XYZ Ltd,36632
+P1578,Headphones,154,48,ABC Ltd,35206
+P1579,Laptop,95,39,Global Traders,49680
+P1580,Tablet,66,16,XYZ Ltd,74110
+P1581,Mobile,170,37,ABC Ltd,47372
+P1582,Printer,89,11,ABC Ltd,45083
+P1583,Mobile,42,11,XYZ Ltd,47898
+P1584,Mouse,66,40,XYZ Ltd,52325
+P1585,Headphones,156,17,Global Traders,35442
+P1586,Tablet,61,50,XYZ Ltd,27944
+P1587,Printer,177,32,ABC Ltd,78833
+P1588,Headphones,52,25,SupplyHub,27227
+P1589,Printer,109,23,Global Traders,28627
+P1590,Tablet,113,21,TechCorp,1006
+P1591,Mouse,35,26,ABC Ltd,76551
+P1592,Headphones,174,31,TechCorp,5670
+P1593,Mobile,1,17,TechCorp,69514
+P1594,Mouse,54,43,SupplyHub,2452
+P1595,Headphones,116,18,TechCorp,50923
+P1596,Printer,56,22,SupplyHub,52825
+P1597,Tablet,3,22,Global Traders,37851
+P1598,Keyboard,146,50,TechCorp,77175
+P1599,Printer,1,47,XYZ Ltd,67158
+P1600,Monitor,190,34,XYZ Ltd,51126
+P1601,Headphones,166,42,ABC Ltd,13657
+P1602,Tablet,149,49,Global Traders,10794
+P1603,Printer,136,17,Global Traders,10762
+P1604,Headphones,175,33,XYZ Ltd,12827
+P1605,Mobile,27,21,SupplyHub,31337
+P1606,Headphones,156,10,XYZ Ltd,55630
+P1607,Tablet,127,29,ABC Ltd,79716
+P1608,Headphones,130,40,Global Traders,3437
+P1609,Headphones,157,38,ABC Ltd,77051
+P1610,Mobile,164,13,XYZ Ltd,66076
+P1611,Monitor,62,24,Global Traders,22462
+P1612,Mouse,39,10,ABC Ltd,55630
+P1613,Laptop,184,15,Global Traders,2045
+P1614,Tablet,133,11,TechCorp,18830
+P1615,Laptop,135,34,TechCorp,64212
+P1616,Monitor,58,21,Global Traders,33918
+P1617,Headphones,56,42,SupplyHub,78303
+P1618,Keyboard,70,47,Global Traders,79176
+P1619,Monitor,28,10,XYZ Ltd,25471
+P1620,Printer,48,24,ABC Ltd,31745
+P1621,Keyboard,120,38,Global Traders,49140
+P1622,Mouse,68,21,XYZ Ltd,53661
+P1623,Monitor,125,49,Global Traders,75830
+P1624,Headphones,68,20,Global Traders,34681
+P1625,Mobile,31,41,ABC Ltd,15974
+P1626,Mouse,139,18,SupplyHub,69126
+P1627,Mobile,75,44,ABC Ltd,53348
+P1628,Laptop,118,40,TechCorp,52431
+P1629,Mouse,15,23,TechCorp,14167
+P1630,Mobile,69,18,ABC Ltd,57343
+P1631,Keyboard,183,14,XYZ Ltd,72312
+P1632,Mouse,187,16,Global Traders,16808
+P1633,Tablet,186,10,SupplyHub,56872
+P1634,Mobile,148,24,Global Traders,68089
+P1635,Mouse,171,20,SupplyHub,9066
+P1636,Mobile,181,26,ABC Ltd,28695
+P1637,Laptop,73,14,Global Traders,31318
+P1638,Headphones,107,16,SupplyHub,2126
+P1639,Headphones,32,18,ABC Ltd,71343
+P1640,Tablet,124,33,SupplyHub,69165
+P1641,Tablet,65,22,ABC Ltd,64760
+P1642,Laptop,174,31,TechCorp,67822
+P1643,Laptop,93,22,SupplyHub,18544
+P1644,Monitor,170,26,ABC Ltd,37787
+P1645,Mobile,106,30,TechCorp,1687
+P1646,Laptop,183,30,Global Traders,10410
+P1647,Mobile,161,42,ABC Ltd,21430
+P1648,Laptop,64,30,TechCorp,56511
+P1649,Tablet,134,45,ABC Ltd,68413
+P1650,Tablet,58,20,Global Traders,59265
+P1651,Monitor,10,43,ABC Ltd,12420
+P1652,Mouse,56,49,SupplyHub,37633
+P1653,Headphones,70,10,ABC Ltd,57393
+P1654,Monitor,94,27,Global Traders,30191
+P1655,Keyboard,89,14,ABC Ltd,32664
+P1656,Mobile,78,40,SupplyHub,45712
+P1657,Laptop,109,29,SupplyHub,5057
+P1658,Keyboard,166,28,Global Traders,78051
+P1659,Monitor,17,14,XYZ Ltd,33747
+P1660,Mouse,56,50,SupplyHub,59790
+P1661,Mobile,128,24,Global Traders,51525
+P1662,Keyboard,12,36,TechCorp,42636
+P1663,Mouse,61,38,ABC Ltd,1633
+P1664,Mobile,79,17,XYZ Ltd,20972
+P1665,Monitor,191,20,Global Traders,60905
+P1666,Laptop,73,47,XYZ Ltd,58048
+P1667,Mobile,110,39,SupplyHub,37376
+P1668,Tablet,97,44,Global Traders,56774
+P1669,Headphones,181,26,TechCorp,42501
+P1670,Monitor,197,21,ABC Ltd,30820
+P1671,Tablet,115,48,SupplyHub,1855
+P1672,Tablet,42,12,TechCorp,45532
+P1673,Mouse,130,12,TechCorp,24599
+P1674,Printer,76,36,ABC Ltd,52899
+P1675,Printer,144,41,SupplyHub,25017
+P1676,Keyboard,145,13,Global Traders,35197
+P1677,Printer,142,20,ABC Ltd,25095
+P1678,Tablet,67,34,XYZ Ltd,54031
+P1679,Tablet,25,50,XYZ Ltd,18144
+P1680,Mouse,58,34,SupplyHub,58152
+P1681,Tablet,65,33,ABC Ltd,45558
+P1682,Monitor,63,45,ABC Ltd,8540
+P1683,Mouse,5,30,ABC Ltd,19817
+P1684,Printer,7,46,Global Traders,58429
+P1685,Keyboard,127,50,ABC Ltd,66435
+P1686,Printer,162,10,ABC Ltd,49182
+P1687,Keyboard,60,12,XYZ Ltd,29029
+P1688,Mobile,145,43,TechCorp,48417
+P1689,Headphones,194,22,XYZ Ltd,20576
+P1690,Laptop,131,44,ABC Ltd,38102
+P1691,Headphones,143,21,SupplyHub,7007
+P1692,Headphones,144,48,ABC Ltd,56605
+P1693,Laptop,89,41,XYZ Ltd,72071
+P1694,Headphones,72,23,ABC Ltd,75070
+P1695,Printer,196,50,SupplyHub,38014
+P1696,Keyboard,23,45,TechCorp,69201
+P1697,Monitor,93,31,ABC Ltd,24574
+P1698,Mouse,110,20,SupplyHub,32724
+P1699,Headphones,190,17,Global Traders,3645
+P1700,Printer,24,23,ABC Ltd,79541
+P1701,Monitor,151,24,Global Traders,6033
+P1702,Keyboard,163,26,XYZ Ltd,66593
+P1703,Headphones,75,31,Global Traders,62231
+P1704,Mouse,92,16,XYZ Ltd,15045
+P1705,Monitor,157,31,SupplyHub,24940
+P1706,Laptop,20,30,ABC Ltd,12048
+P1707,Keyboard,68,10,Global Traders,22539
+P1708,Laptop,24,40,TechCorp,16227
+P1709,Mobile,200,16,ABC Ltd,40264
+P1710,Keyboard,30,40,SupplyHub,62322
+P1711,Headphones,160,33,Global Traders,11309
+P1712,Monitor,82,50,XYZ Ltd,54043
+P1713,Tablet,132,37,TechCorp,27409
+P1714,Mouse,55,31,Global Traders,11149
+P1715,Mouse,10,38,Global Traders,55287
+P1716,Printer,182,40,Global Traders,14976
+P1717,Keyboard,75,15,XYZ Ltd,2166
+P1718,Tablet,192,23,XYZ Ltd,20788
+P1719,Laptop,154,25,SupplyHub,57283
+P1720,Monitor,90,12,TechCorp,10306
+P1721,Laptop,188,21,ABC Ltd,15008
+P1722,Tablet,141,32,XYZ Ltd,37854
+P1723,Printer,76,44,ABC Ltd,9065
+P1724,Keyboard,165,23,Global Traders,23683
+P1725,Mouse,84,37,SupplyHub,42777
+P1726,Keyboard,140,44,SupplyHub,34915
+P1727,Monitor,188,32,ABC Ltd,62987
+P1728,Printer,123,46,ABC Ltd,24545
+P1729,Laptop,36,24,Global Traders,12007
+P1730,Printer,188,41,Global Traders,17403
+P1731,Monitor,199,25,ABC Ltd,42604
+P1732,Monitor,39,29,XYZ Ltd,1217
+P1733,Printer,193,16,SupplyHub,60667
+P1734,Printer,10,21,SupplyHub,67222
+P1735,Tablet,152,18,ABC Ltd,71361
+P1736,Printer,37,35,Global Traders,50162
+P1737,Tablet,168,42,TechCorp,6486
+P1738,Printer,46,49,Global Traders,66354
+P1739,Printer,41,50,Global Traders,69287
+P1740,Mobile,194,24,Global Traders,30111
+P1741,Tablet,142,37,SupplyHub,21167
+P1742,Headphones,153,17,ABC Ltd,76692
+P1743,Laptop,198,17,SupplyHub,25636
+P1744,Laptop,6,14,SupplyHub,69597
+P1745,Mobile,14,40,Global Traders,76794
+P1746,Keyboard,61,24,ABC Ltd,3810
+P1747,Headphones,108,39,Global Traders,14369
+P1748,Laptop,59,47,Global Traders,6951
+P1749,Mobile,123,20,TechCorp,27717
+P1750,Tablet,90,30,SupplyHub,49333
+P1751,Printer,191,25,TechCorp,61300
+P1752,Laptop,123,45,TechCorp,71187
+P1753,Laptop,54,10,Global Traders,62510
+P1754,Monitor,74,18,XYZ Ltd,10383
+P1755,Laptop,147,48,ABC Ltd,30841
+P1756,Mobile,170,25,ABC Ltd,47130
+P1757,Laptop,56,36,Global Traders,25301
+P1758,Mouse,184,37,XYZ Ltd,50887
+P1759,Printer,44,16,XYZ Ltd,9671
+P1760,Headphones,58,48,TechCorp,40519
+P1761,Keyboard,71,14,XYZ Ltd,28719
+P1762,Mouse,140,45,SupplyHub,61575
+P1763,Monitor,56,10,XYZ Ltd,65084
+P1764,Monitor,165,45,Global Traders,34559
+P1765,Mouse,168,42,TechCorp,9795
+P1766,Tablet,20,35,TechCorp,28780
+P1767,Mouse,195,33,SupplyHub,32749
+P1768,Mouse,146,38,TechCorp,70993
+P1769,Monitor,1,26,SupplyHub,63999
+P1770,Mobile,12,20,TechCorp,49305
+P1771,Mouse,185,19,XYZ Ltd,72410
+P1772,Printer,69,45,TechCorp,33554
+P1773,Mouse,91,35,ABC Ltd,3933
+P1774,Monitor,199,20,XYZ Ltd,33652
+P1775,Headphones,94,45,XYZ Ltd,21089
+P1776,Mouse,39,14,Global Traders,24078
+P1777,Keyboard,52,27,ABC Ltd,43906
+P1778,Keyboard,42,48,Global Traders,10675
+P1779,Mobile,105,47,XYZ Ltd,50458
+P1780,Printer,181,21,ABC Ltd,54067
+P1781,Printer,59,25,Global Traders,49476
+P1782,Mobile,115,20,Global Traders,35655
+P1783,Mobile,170,23,TechCorp,39597
+P1784,Keyboard,71,14,ABC Ltd,71274
+P1785,Keyboard,65,32,SupplyHub,48568
+P1786,Monitor,19,39,Global Traders,52185
+P1787,Printer,10,31,TechCorp,28025
+P1788,Printer,147,17,TechCorp,49370
+P1789,Headphones,16,23,XYZ Ltd,18670
+P1790,Printer,152,34,TechCorp,78157
+P1791,Tablet,196,48,SupplyHub,71030
+P1792,Mobile,13,22,SupplyHub,35924
+P1793,Tablet,137,48,SupplyHub,11447
+P1794,Headphones,166,46,Global Traders,75152
+P1795,Tablet,27,34,XYZ Ltd,57714
+P1796,Mobile,104,49,TechCorp,20063
+P1797,Keyboard,83,43,XYZ Ltd,15970
+P1798,Mouse,111,41,Global Traders,70127
+P1799,Laptop,78,26,XYZ Ltd,72543
+P1800,Tablet,57,26,XYZ Ltd,75372
+P1801,Laptop,163,49,Global Traders,14360
+P1802,Mouse,193,44,ABC Ltd,34631
+P1803,Printer,136,39,SupplyHub,47577
+P1804,Mobile,148,35,SupplyHub,63027
+P1805,Printer,169,49,ABC Ltd,60552
+P1806,Keyboard,184,15,XYZ Ltd,65394
+P1807,Keyboard,63,30,Global Traders,56085
+P1808,Tablet,58,44,XYZ Ltd,68570
+P1809,Mobile,43,19,TechCorp,65705
+P1810,Keyboard,126,13,TechCorp,17723
+P1811,Mobile,53,38,XYZ Ltd,32429
+P1812,Monitor,167,34,XYZ Ltd,53366
+P1813,Headphones,34,46,ABC Ltd,10003
+P1814,Headphones,74,13,TechCorp,33927
+P1815,Laptop,115,40,Global Traders,4261
+P1816,Mobile,43,32,ABC Ltd,588
+P1817,Mobile,140,13,TechCorp,30930
+P1818,Monitor,68,14,ABC Ltd,2944
+P1819,Headphones,174,40,TechCorp,44014
+P1820,Keyboard,107,11,ABC Ltd,5481
+P1821,Tablet,15,50,Global Traders,36307
+P1822,Headphones,34,15,SupplyHub,48120
+P1823,Laptop,0,35,XYZ Ltd,75092
+P1824,Mouse,15,28,TechCorp,25051
+P1825,Printer,50,33,XYZ Ltd,47227
+P1826,Mobile,48,26,SupplyHub,70825
+P1827,Laptop,87,40,ABC Ltd,2440
+P1828,Tablet,94,38,XYZ Ltd,23678
+P1829,Headphones,35,36,XYZ Ltd,74367
+P1830,Mouse,52,18,SupplyHub,78759
+P1831,Keyboard,105,32,TechCorp,56967
+P1832,Keyboard,69,43,TechCorp,54496
+P1833,Mobile,84,14,ABC Ltd,21495
+P1834,Tablet,75,43,Global Traders,21018
+P1835,Printer,162,22,TechCorp,21293
+P1836,Mobile,99,16,XYZ Ltd,22679
+P1837,Keyboard,131,30,Global Traders,9891
+P1838,Headphones,174,41,TechCorp,12255
+P1839,Mouse,67,39,Global Traders,77092
+P1840,Tablet,31,30,Global Traders,62776
+P1841,Monitor,38,11,TechCorp,44258
+P1842,Monitor,149,50,XYZ Ltd,75160
+P1843,Tablet,115,23,TechCorp,33970
+P1844,Headphones,62,20,SupplyHub,61963
+P1845,Laptop,90,13,Global Traders,52909
+P1846,Tablet,85,43,XYZ Ltd,31611
+P1847,Headphones,76,31,Global Traders,50574
+P1848,Tablet,59,41,TechCorp,73620
+P1849,Headphones,67,44,TechCorp,7388
+P1850,Mouse,16,24,ABC Ltd,39310
+P1851,Monitor,44,47,XYZ Ltd,34002
+P1852,Mobile,165,18,SupplyHub,37910
+P1853,Printer,188,18,Global Traders,10896
+P1854,Tablet,9,16,Global Traders,44984
+P1855,Headphones,3,26,XYZ Ltd,14561
+P1856,Printer,194,50,TechCorp,16173
+P1857,Headphones,34,20,SupplyHub,49121
+P1858,Monitor,158,50,TechCorp,30615
+P1859,Headphones,143,40,ABC Ltd,38122
+P1860,Mobile,5,45,SupplyHub,12202
+P1861,Headphones,121,20,TechCorp,68474
+P1862,Keyboard,176,24,XYZ Ltd,31561
+P1863,Mobile,66,26,SupplyHub,10236
+P1864,Mouse,84,15,XYZ Ltd,30706
+P1865,Tablet,100,10,SupplyHub,14471
+P1866,Mouse,163,44,ABC Ltd,51303
+P1867,Tablet,35,38,XYZ Ltd,66361
+P1868,Headphones,96,35,SupplyHub,28456
+P1869,Laptop,39,37,Global Traders,27042
+P1870,Mouse,126,21,SupplyHub,6197
+P1871,Tablet,68,31,SupplyHub,43576
+P1872,Headphones,47,16,TechCorp,45271
+P1873,Printer,58,46,ABC Ltd,40907
+P1874,Tablet,145,13,TechCorp,78031
+P1875,Mouse,19,22,TechCorp,60540
+P1876,Mobile,83,11,SupplyHub,13025
+P1877,Monitor,59,45,TechCorp,10861
+P1878,Tablet,169,16,Global Traders,12390
+P1879,Laptop,49,40,ABC Ltd,1415
+P1880,Mouse,131,46,ABC Ltd,54856
+P1881,Mobile,148,23,SupplyHub,47196
+P1882,Monitor,135,29,SupplyHub,31976
+P1883,Mobile,42,20,Global Traders,15473
+P1884,Keyboard,50,41,ABC Ltd,29039
+P1885,Monitor,97,46,XYZ Ltd,23416
+P1886,Tablet,21,23,Global Traders,64420
+P1887,Laptop,12,29,TechCorp,12642
+P1888,Mouse,101,17,XYZ Ltd,26729
+P1889,Headphones,102,49,SupplyHub,20051
+P1890,Keyboard,121,24,ABC Ltd,34048
+P1891,Tablet,26,23,XYZ Ltd,13665
+P1892,Tablet,2,25,TechCorp,60949
+P1893,Mouse,75,50,TechCorp,63904
+P1894,Printer,61,29,ABC Ltd,76144
+P1895,Printer,125,33,TechCorp,49876
+P1896,Laptop,45,24,Global Traders,66459
+P1897,Printer,166,18,XYZ Ltd,28540
+P1898,Headphones,50,39,ABC Ltd,36876
+P1899,Headphones,50,41,XYZ Ltd,16489
+P1900,Headphones,66,13,Global Traders,75885
+P1901,Monitor,89,41,ABC Ltd,71892
+P1902,Mouse,51,50,ABC Ltd,17607
+P1903,Mobile,130,16,XYZ Ltd,72414
+P1904,Mobile,27,27,ABC Ltd,71530
+P1905,Mobile,121,43,Global Traders,20670
+P1906,Laptop,74,47,ABC Ltd,12719
+P1907,Mouse,94,11,TechCorp,61576
+P1908,Laptop,146,28,ABC Ltd,61045
+P1909,Mobile,111,29,SupplyHub,11871
+P1910,Mobile,187,48,XYZ Ltd,55605
+P1911,Laptop,147,13,ABC Ltd,20329
+P1912,Tablet,172,43,TechCorp,64852
+P1913,Laptop,59,25,XYZ Ltd,21366
+P1914,Laptop,27,36,XYZ Ltd,38231
+P1915,Keyboard,68,43,Global Traders,59044
+P1916,Printer,103,19,Global Traders,5531
+P1917,Mobile,103,41,SupplyHub,5573
+P1918,Mobile,163,49,ABC Ltd,12209
+P1919,Tablet,150,21,XYZ Ltd,990
+P1920,Mobile,10,31,ABC Ltd,34156
+P1921,Laptop,101,35,TechCorp,26766
+P1922,Keyboard,148,42,ABC Ltd,31019
+P1923,Mouse,96,16,ABC Ltd,22830
+P1924,Monitor,57,45,ABC Ltd,57045
+P1925,Laptop,93,15,TechCorp,57313
+P1926,Monitor,124,24,ABC Ltd,53831
+P1927,Mouse,186,39,SupplyHub,59235
+P1928,Mouse,136,34,Global Traders,67640
+P1929,Mouse,110,10,XYZ Ltd,33954
+P1930,Monitor,22,16,XYZ Ltd,66274
+P1931,Tablet,74,15,SupplyHub,35166
+P1932,Mobile,81,48,XYZ Ltd,72354
+P1933,Monitor,65,44,TechCorp,3853
+P1934,Keyboard,168,24,Global Traders,30819
+P1935,Headphones,40,29,ABC Ltd,2052
+P1936,Mouse,113,16,ABC Ltd,22095
+P1937,Laptop,168,18,TechCorp,68476
+P1938,Monitor,138,40,SupplyHub,54233
+P1939,Monitor,32,16,SupplyHub,30906
+P1940,Keyboard,112,37,TechCorp,11101
+P1941,Headphones,61,17,Global Traders,71846
+P1942,Keyboard,94,13,TechCorp,58312
+P1943,Keyboard,179,28,ABC Ltd,9702
+P1944,Laptop,127,47,TechCorp,45397
+P1945,Keyboard,148,50,Global Traders,30828
+P1946,Mobile,66,29,Global Traders,11548
+P1947,Monitor,3,10,ABC Ltd,20503
+P1948,Laptop,1,49,XYZ Ltd,10187
+P1949,Tablet,85,23,Global Traders,40820
+P1950,Laptop,15,30,SupplyHub,74485
+P1951,Printer,109,46,Global Traders,73178
+P1952,Tablet,173,18,Global Traders,16795
+P1953,Printer,27,10,XYZ Ltd,50956
+P1954,Headphones,37,25,XYZ Ltd,55337
+P1955,Tablet,73,36,Global Traders,30220
+P1956,Mouse,18,15,TechCorp,76671
+P1957,Mobile,133,43,ABC Ltd,17312
+P1958,Keyboard,194,14,TechCorp,65241
+P1959,Mobile,72,20,TechCorp,52773
+P1960,Headphones,128,38,XYZ Ltd,55394
+P1961,Mouse,104,33,XYZ Ltd,74719
+P1962,Mouse,49,47,SupplyHub,53167
+P1963,Laptop,186,21,ABC Ltd,16350
+P1964,Laptop,36,29,TechCorp,73693
+P1965,Monitor,36,12,XYZ Ltd,75983
+P1966,Keyboard,175,36,TechCorp,54874
+P1967,Mouse,57,45,TechCorp,13310
+P1968,Monitor,135,33,SupplyHub,16392
+P1969,Tablet,156,25,XYZ Ltd,50837
+P1970,Monitor,92,28,ABC Ltd,72969
+P1971,Monitor,42,16,ABC Ltd,19889
+P1972,Mobile,49,17,SupplyHub,45667
+P1973,Monitor,192,45,Global Traders,6404
+P1974,Monitor,181,23,XYZ Ltd,40104
+P1975,Keyboard,187,35,ABC Ltd,66434
+P1976,Laptop,68,48,Global Traders,51820
+P1977,Mouse,136,27,TechCorp,65869
+P1978,Keyboard,157,41,ABC Ltd,77589
+P1979,Mobile,124,29,Global Traders,76975
+P1980,Headphones,23,16,SupplyHub,33740
+P1981,Monitor,115,26,SupplyHub,32348
+P1982,Tablet,115,39,ABC Ltd,67026
+P1983,Printer,188,10,ABC Ltd,2258
+P1984,Laptop,73,26,Global Traders,65768
+P1985,Headphones,186,20,SupplyHub,47201
+P1986,Keyboard,111,27,TechCorp,74389
+P1987,Laptop,105,25,SupplyHub,27873
+P1988,Keyboard,139,26,SupplyHub,36089
+P1989,Laptop,94,36,XYZ Ltd,65836
+P1990,Laptop,179,33,XYZ Ltd,6791
+P1991,Tablet,180,43,XYZ Ltd,48592
+P1992,Headphones,8,49,TechCorp,59869
+P1993,Tablet,41,27,ABC Ltd,77890
+P1994,Laptop,17,14,SupplyHub,36195
+P1995,Tablet,26,11,XYZ Ltd,1322
+P1996,Mobile,49,21,Global Traders,44554
+P1997,Printer,50,50,SupplyHub,40547
+P1998,Mobile,32,23,ABC Ltd,49881
+P1999,Monitor,59,21,Global Traders,65047
